@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\bin\Debug\UserSystemApplication.exe.config
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\bin\Debug\UserSystemApplication.exe
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\bin\Debug\UserSystemApplication.pdb
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.DashBoard.resources
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.Register.resources
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.Login.resources
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.Properties.Resources.resources
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.exe
+C:\Users\User\source\repos\UserSystemApplication\UserSystemApplication\obj\Debug\UserSystemApplication.pdb
